@@ -1,0 +1,84 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Reto2",
+            "request": "launch",
+            "mainClass": "Reto2",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Reto8",
+            "request": "launch",
+            "mainClass": "Reto8",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Reto7",
+            "request": "launch",
+            "mainClass": "Reto7",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Reto6",
+            "request": "launch",
+            "mainClass": "Reto6",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Reto5",
+            "request": "launch",
+            "mainClass": "Reto5",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto4",
+            "request": "launch",
+            "mainClass": "Reto4",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto3",
+            "request": "launch",
+            "mainClass": "Reto3",
+            "projectName": "Retos_f357268"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto1",
+            "request": "launch",
+            "mainClass": "Reto1",
+            "projectName": "RETOS2_d5a6e2ca"
+        },
+        {
+            "type": "java",
+            "name": "Launch Reto2",
+            "request": "launch",
+            "mainClass": "Reto2",
+            "projectName": "RETOS2_d5a6e2ca"
+        }
+    ]
+}
