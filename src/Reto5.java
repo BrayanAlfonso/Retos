@@ -3,9 +3,9 @@ import java.util.Scanner;
 public class Reto5 {
     public static void main(String[] args) {
         String empleado;
-        String nuevoEmpleado = "brayan";
-        String nuevoCliente = "jorge";
-        String cliente="";
+        String nuevoEmpleado="Brayan";
+        String nuevoCliente="Estiven";
+        String cliente;
         String fechaFact;
         String producto;
         double precioProd;
@@ -17,6 +17,7 @@ public class Reto5 {
         Scanner lectura = new Scanner(System.in);
 
         System.out.println("Registrar venta");
+
 
         do {
             
@@ -61,6 +62,8 @@ public class Reto5 {
         bucle2=lectura.next();
         cont++;
     } while (bucle2.equals("si"));
+
+       lectura.close();
 
     }
 }

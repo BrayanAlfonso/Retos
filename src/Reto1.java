@@ -4,9 +4,9 @@ import java.util.Scanner;
 public class Reto1 {
     public static void main(String[] args ) {
        
-        double gradosCent=0;
+        double gradosCent;
         double gradosKelv=0;
-        int cantPersonas=0;
+        int cantPersonas;
         double totalKilos=0;      
 
         Scanner calculadora = new Scanner(System.in);

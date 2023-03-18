@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Reto6 {
     public static void main(String[] args) {
-        int cantDinero=0,aleatorio=0,opcion=0,cont=0;
+        int cantDinero,aleatorio,opcion=0,cont=0;
         int i=3;
         String repetir="si";
 
