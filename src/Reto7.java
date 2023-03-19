@@ -2,7 +2,7 @@
 public class Reto7 {
     public static void main(String[] args) {
         int aleatorio;
-        int opcion,cantDinero=0;
+        int opcion,cantDinero;
         String repetir="si";
         int i=3;
         int cont=0;

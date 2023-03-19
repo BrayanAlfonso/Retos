@@ -3,13 +3,13 @@ import java.util.Scanner;
 public class Reto2 {
     public static void main(String[] args) {
         double dosisVAc=0.0;
-        double pesoBebe=0.0;
+        double pesoBebe;
         int mesesBebe=0;
-        int anoNac=0;
-        int anoAct=0;
-        String nombDoc="";
-        String nombMa="";
-        String nombBebe="";
+        int anoNac;
+        int anoAct;
+        String nombDoc;
+        String nombMa;
+        String nombBebe;
 
 
         Scanner calculador=new Scanner(System.in);
